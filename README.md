@@ -1,7 +1,7 @@
 # Simon-Game
 A classical Simon game deigned with some eye catching front end technologies.
 
-HOW TO PLAY SIMON GAME???
+##HOW TO PLAY SIMON GAME???
 
 press any key from keyboard to start the game.
 
@@ -19,3 +19,7 @@ press any key from keyboard to start the game.
  Simon responds with a "RAZZ" sound. This means you've lost, and the sequence of signals ends.
 
 press any key again to restart the game.
+
+
+
+###Give it a Try: https://apoorv0503.github.io/Simon-Game/
